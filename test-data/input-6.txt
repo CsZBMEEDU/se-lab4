@@ -1,0 +1,4 @@
+# Single mode primary hiba secondary ok
+GT4500,2,0,2,1.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

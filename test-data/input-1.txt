@@ -1,0 +1,4 @@
+# Elso loves a primary tarbol
+GT4500,2,0,2,0
+TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE
